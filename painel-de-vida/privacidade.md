@@ -5,7 +5,7 @@ permalink: /painel-de-vida/privacidade
 
 # Política de Privacidade — Painel de Vida
 
-Última atualização: 27 de outubro de 2026
+Última atualização: 28 de outubro de 2026
 
 O Painel de Vida ("app") é desenvolvido por Robinson Lima. Esta política explica quais dados o app acessa, para quê e como você controla esse acesso.
 
@@ -14,7 +14,7 @@ O Painel de Vida ("app") é desenvolvido por Robinson Lima. Esta política expli
 - O app mostra, numa tela só, a sua agenda, as suas tarefas e os seus emails do dia, das contas Google e Microsoft que **você** conectar.
 - **Não temos servidor.** O seu celular conversa direto com o Google e a Microsoft. Os seus dados não passam por nós e não ficam guardados conosco.
 - Não vendemos, não alugamos e não compartilhamos os seus dados. Não usamos os dados para publicidade nem para treinar inteligência artificial.
-- Você pode desconectar uma conta a qualquer momento no app (tela **Contas**). O acesso é revogado na hora.
+- Você pode desconectar uma conta a qualquer momento no app (tela **Contas**). No Google, a autorização é revogada na hora. Na Microsoft, o app apaga do aparelho o acesso à conta; para revogar também a autorização na sua conta Microsoft, use [account.live.com/consent/Manage](https://account.live.com/consent/Manage).
 
 ## Quais dados o app acessa
 
@@ -55,16 +55,16 @@ O uso e a transferência, para qualquer outro app, das informações recebidas d
 
 Você pode, a qualquer momento:
 
-- **desconectar** uma conta na tela **Contas** do app;
+- **desconectar** uma conta na tela **Contas** do app (no Google, isso já revoga a autorização; na Microsoft, apaga o acesso do aparelho, e a revogação total é feita pelo link abaixo);
 - **revogar o acesso** também pelo próprio provedor: [myaccount.google.com/permissions](https://myaccount.google.com/permissions) no Google e [account.live.com/consent/Manage](https://account.live.com/consent/Manage) na Microsoft;
 - **apagar** os dados guardados no celular desinstalando o app ou limpando os dados dele nas configurações do Android;
 - pedir informações sobre esta política pelo contato abaixo.
 
 Como não temos servidor nem banco de dados, não guardamos dados seus que precisem ser apagados do nosso lado.
 
-## Crianças
+## Idade mínima
 
-O app não é destinado a menores de 13 anos.
+O app é destinado a maiores de 18 anos e não é direcionado a crianças nem adolescentes.
 
 ## Mudanças nesta política
 
