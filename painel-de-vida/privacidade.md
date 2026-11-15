@@ -5,13 +5,13 @@ permalink: /painel-de-vida/privacidade
 
 # Política de Privacidade — Painel de Vida
 
-Última atualização: 28 de outubro de 2026
+Última atualização: 15 de novembro de 2026
 
 O Painel de Vida ("app") é desenvolvido por Robinson Lima. Esta política explica quais dados o app acessa, para quê e como você controla esse acesso.
 
 ## Resumo
 
-- O app mostra, numa tela só, a sua agenda, as suas tarefas e os seus emails do dia, das contas Google e Microsoft que **você** conectar.
+- O app mostra, numa tela só, a sua agenda e as suas tarefas do dia, das contas Google e Microsoft que **você** conectar, e os seus emails das contas Microsoft. O app **não** acessa o Gmail.
 - **Não temos servidor.** O seu celular conversa direto com o Google e a Microsoft. Os seus dados não passam por nós e não ficam guardados conosco.
 - Não vendemos, não alugamos e não compartilhamos os seus dados. Não usamos os dados para publicidade nem para treinar inteligência artificial.
 - Você pode desconectar uma conta a qualquer momento no app (tela **Contas**). No Google, a autorização é revogada na hora. Na Microsoft, o app apaga do aparelho o acesso à conta; para revogar também a autorização na sua conta Microsoft, use [account.live.com/consent/Manage](https://account.live.com/consent/Manage).
@@ -25,11 +25,11 @@ Só depois que você conecta uma conta e autoriza, e só para mostrar e organiza
 | Google | Nome, email e foto do perfil | Identificar a conta conectada e cumprimentar você pelo nome |
 | Google Agenda | Compromissos (título, horário, local, participantes, descrição, link da reunião) | Mostrar a agenda de hoje, criar e apagar compromissos quando você pedir |
 | Google Tarefas | Tarefas (título, data, anotações, lista) | Mostrar as tarefas de hoje e atrasadas, criar, concluir e adiar tarefas quando você pedir |
-| Gmail | Emails não lidos da caixa de entrada (remetente, assunto, trecho e corpo ao abrir) | Mostrar os emails não lidos, abrir um email dentro do app, responder, marcar como lido e arquivar quando você pedir |
 | Microsoft | Nome e email do perfil | Identificar a conta conectada |
-| Outlook (agenda e email) e Microsoft To Do | Os mesmos dados descritos acima para Google | As mesmas finalidades descritas acima |
+| Agenda do Outlook e Microsoft To Do | Os mesmos dados descritos acima para a agenda e as tarefas do Google | As mesmas finalidades descritas acima |
+| Email do Outlook | Emails não lidos da caixa de entrada (remetente, assunto, trecho e corpo ao abrir) | Mostrar os emails não lidos, abrir um email dentro do app, responder, marcar como lido e arquivar quando você pedir |
 
-O app **não** apaga emails permanentemente, **não** lê seus contatos e **não** acessa outros arquivos da sua conta.
+O app **não** acessa o Gmail, **não** apaga emails permanentemente, **não** lê seus contatos e **não** acessa outros arquivos da sua conta.
 
 ## Onde os dados ficam
 
